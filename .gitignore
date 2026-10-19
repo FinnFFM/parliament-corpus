@@ -1,0 +1,11 @@
+target/
+.idea/
+.vscode/
+*.iml
+*.db
+*.db-*
+.env
+.env.*
+!*.example
+*.log
+.DS_Store
